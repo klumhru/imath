@@ -1,4 +1,4 @@
-package mathy
+package imath
 
 import (
 	"testing"
